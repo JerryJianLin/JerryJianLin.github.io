@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Jian-Yu (Jerry) Lin"
   avatar           : "LJY_IEDMS_2021.png"
-  bio              : "I graduated with a B.S. degree in Electrical Engineering in 2019 and a M.S. degree in Electronics Engineering in 2021 from National Taiwan University. \ 
-  My research interests include semiconductor devices, emerging memory devices, and transistors."
+  bio              : "I am a graduate research assistant at National Taiwan University. \ 
+  My research interests include semiconductor physics, emerging memory devices, transistors, and MOS devices. \
+  Currently I am applying for PhD programs in semiconductor area."
   location         : "Taipei City, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -104,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-8800-8714"
+  orcid            : #"http://orcid.org/0000-0002-8800-8714"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
