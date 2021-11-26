@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 Welcome! <br> My name is Jian-Yu (Jerry) Lin, a graduate research assitant at [Graduate Institute of Electronics Engineering in National Taiwan University (NTU)](https://giee.ntu.edu.tw/en/index.php). <br/>
-I have worked with Prof. Jenn-Gwo Hwu since 2018 and investigated the transient current behavior in metal-insulator-semiconductor tunnel diodes (MIS TDs). <br/>
+I have worked with [Prof. Jenn-Gwo Hwu](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901074) since 2018 and investigated the transient current behavior in metal-insulator-semiconductor tunnel diodes (MIS TDs). <br/>
 I received my B.S. degree in Electrical Engineering in 2019 and M.S. degree in Electronics Engineering in 2021 both from NTU. <br/>
-My research interests include semiconductor physics, transistors, memory devices (such as resistive random access memory (RRAM), phase change memory (PCM), and ferroelectric memory), and MIS physics.
+My research interests include semiconductor physics, transistors, memory devices (such as resistive random access memory (RRAM), phase change memory (PCM), and ferroelectric memory), and MOS devices. <br/>
+<br/>
 Currently, I am applying for PhD programs. 
 
 <!--
