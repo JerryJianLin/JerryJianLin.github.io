@@ -19,12 +19,12 @@ My research interests include:
 * Power Semiconductor Devices
 * Metal-Oxide-Semiconductor (MOS) Devices
 * Transistors <br/>
+
 <br/>
 Currently, I am applying for PhD programs. 
 <br/>
-<!--
-I received my B.S. degree at electrical engineering of National Taiwan University (NTU) in 2019. My research interests include computational imaging and image correspondence estimation.
--->
+<br/>
+
 
 <img src='/images/NTU.png' width='150' >
 <br/>
@@ -33,4 +33,4 @@ I received my B.S. degree at electrical engineering of National Taiwan Universit
 
 Email address: ck10100398@gmail.com <br/>
 NTU email address: r08943076@ntu.edu.tw <br/>
-Last update: 11/26/2021
+Last update: 11/28/2021
