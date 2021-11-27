@@ -7,6 +7,8 @@ author_profile: true
 
 
 ## Basics of MIS TDs
+---
+
 
 
 ## Transient Current in MIS TDs
