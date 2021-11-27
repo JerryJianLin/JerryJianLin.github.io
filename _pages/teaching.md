@@ -16,11 +16,11 @@ author_profile: true
 
 
 
-* Transient Current in MIS TDs
-
-
-## 2. My research: Trench Structure MIS TDs 
+## 2. My research: Trench Structure MIS TDs (Trench MIS TDs) 
 ---
+* In 2019, with the aim to utilize MIS TDs as a new type of memory devices, I proposed a new device structure for MIS TDs.
+* I called it <b>"Trench structure MIS TD (Trench MIS TD)"</b>.
+* The following is my research about Trench MIS TDs.  
 
 {% include base_path %}
 
