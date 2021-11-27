@@ -7,6 +7,7 @@ author_profile: true
 
 * In the first part of this page, I would introduce some background about the semiconductor devices, MIS TDs.
 * Second part is my research works about "Trench Structure MIS TDs".
+
 ---
 
 ## 1. Basics of MIS TDs
