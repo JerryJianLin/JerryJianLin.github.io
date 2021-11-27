@@ -15,13 +15,13 @@ I received my B.S. degree in Electrical Engineering in 2019 and M.S. degree in E
 My research interests include:
 * Semiconductor Physics and Devices
 * Emerging Memory Devices (such as resistive random access memory (RRAM), phase change memory (PCM), and ferroelectric memory)
-* Low Dimensional Materials \& Devices 
+* Low Dimensional Materials & Devices 
 * Power Semiconductor Devices
 * Metal-Oxide-Semiconductor (MOS) Devices
 * Transistors <br/>
 <br/>
 Currently, I am applying for PhD programs. 
-
+<br/>
 <!--
 I received my B.S. degree at electrical engineering of National Taiwan University (NTU) in 2019. My research interests include computational imaging and image correspondence estimation.
 -->
