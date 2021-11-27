@@ -20,8 +20,9 @@ author_profile: true
 ---
 * In 2019, with the aim to utilize MIS TDs as a new type of memory devices, I proposed a new device structure for MIS TDs.
 * I called it <b>"Trench structure MIS TD (Trench MIS TD)"</b>. \[One can see the following figure\] <br/>
-
-<p style="text-align:center;"><img src='/images/TrenchMIS.svg' width='400'></p> <br/>
+<br/>
+<br/>
+<p style="text-align:center;"><img src='/images/TrenchMIS.svg' width='600'></p> <br/>
 <b>Fig.</b> Top views and schematic cross section views of traditional planar structure MIS TDs (Planar MIS TDs) and the proposed trench structure MIS TDs (Trench MIS TDs).<br/>
 
 * The following is my research about Trench MIS TDs.  
