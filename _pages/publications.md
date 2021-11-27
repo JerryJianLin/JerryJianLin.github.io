@@ -5,6 +5,30 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Journal
+
+
+- __Jian-Yu Lin__, and Jenn-Gwo Hwu, "Enhanced Transient Behavior in MIS(p) Tunnel Diodes by Trench Forming at the Gate Edge," in _IEEE Transactions on Electron Devices_, vol. 68, no. 9, pp. 4189-4194, Sept. 2021, doi: 10.1109/TED.2021.3095052.
+
+<!--
+- Shun-Yao Shih\*, __Fan-Keng Sun\*__, Hung-yi Lee.
+Temporal Pattern Attention for Multivariate Time Series Forecasting.
+Journal track of the _European Conference on Machine Learning & Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD)_, 2019.
+-->
+
+## Conference
+
+- __Jian-Yu Lin__, and Jenn-Gwo Hwu, “Enhanced Memory Properties in MIS TD by Forming Trench Structure at the Gate Edge,” _2020 International Electronic Devices and Materials Symposium (IEDMS)_, 5021, C1‑3, Chang Gung University, Tao‑Yuan City, Taiwan, ROC, Oct. 2020. (oral presentation)
+
+- __Jian-Yu Lin__, and Jenn-Gwo Hwu, “Dependency of Transient Current Behavior on Oxide Thickness in Trench Structure MIS TDs,” _2021 International Electronic Devices and Materials Symposium (IEDMS)_, 1032, C3‑1, National Cheng Kung University, Tainan City, Taiwan, ROC, Nov. 2021. (oral presentation, <span style="color:orange;">Best Paper Award</span>)
+
+<!--
+- __Fan-Keng Sun__, Hao Chen,  Ching-Yu Chen, Chen-Hao Hsu, Yao-Wen Chang.
+A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides.
+In _Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)_, 2018.
+-->
+
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
