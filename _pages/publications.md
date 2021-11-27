@@ -18,9 +18,9 @@ Journal track of the _European Conference on Machine Learning & Principles and P
 
 ## Conference
 
-1. __Jian-Yu Lin__, and Jenn-Gwo Hwu, “Dependency of Transient Current Behavior on Oxide Thickness in Trench Structure MIS TDs,” _2021 International Electronic Devices and Materials Symposium (IEDMS)_, 1032, C3‑1, National Cheng Kung University, Tainan City, Taiwan, ROC, Nov. 2021. (oral presentation, <span style="color:red;">__Best Paper Award__</span>) [\[For more details\]](http://JerryJianLin.github.io/publication/2021-07-16-IEEE-TED)
+1. __Jian-Yu Lin__, and Jenn-Gwo Hwu, “Dependency of Transient Current Behavior on Oxide Thickness in Trench Structure MIS TDs,” _2021 International Electronic Devices and Materials Symposium (IEDMS)_, 1032, C3‑1, National Cheng Kung University, Tainan City, Taiwan, ROC, Nov. 2021. (oral presentation, <span style="color:red;">__Best Paper Award__</span>) [\[For more details\]](http://JerryJianLin.github.io/publication/2021-11-19-IEDMS)
 
-2. __Jian-Yu Lin__, and Jenn-Gwo Hwu, “Enhanced Memory Properties in MIS TD by Forming Trench Structure at the Gate Edge,” _2020 International Electronic Devices and Materials Symposium (IEDMS)_, 5021, C1‑3, Chang Gung University, Tao‑Yuan City, Taiwan, ROC, Oct. 2020. (oral presentation) [\[For more details\]](http://JerryJianLin.github.io/publication/2021-07-16-IEEE-TED)
+2. __Jian-Yu Lin__, and Jenn-Gwo Hwu, “Enhanced Memory Properties in MIS TD by Forming Trench Structure at the Gate Edge,” _2020 International Electronic Devices and Materials Symposium (IEDMS)_, 5021, C1‑3, Chang Gung University, Tao‑Yuan City, Taiwan, ROC, Oct. 2020. (oral presentation) [\[For more details\]](http://JerryJianLin.github.io/publication/2020-10-16-IEDMS)
 
 <!--
 - __Fan-Keng Sun__, Hao Chen,  Ching-Yu Chen, Chen-Hao Hsu, Yao-Wen Chang.
