@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 * In the first part of this page, I would introduce some background about the semiconductor devices, MIS TDs.
-* Second part, __Trench Structure MIS TDs__, is my research works since 2019.
+* Second part is my research works about "Trench Structure MIS TDs".
 ---
 
-## Basics of MIS TDs
+## 1. Basics of MIS TDs
 ---
 * Device Structure
 
@@ -18,7 +18,7 @@ author_profile: true
 * Transient Current in MIS TDs
 
 
-## My research: Trench Structure MIS TDs 
+## 2. My research: Trench Structure MIS TDs 
 ---
 
 {% include base_path %}
@@ -29,6 +29,6 @@ author_profile: true
 {% endfor %}
 -->
 
-{% for post in site.publications reversed %}
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
