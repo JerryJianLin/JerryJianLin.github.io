@@ -8,7 +8,7 @@ author_profile: true
 ## Journal
 
 
-1. __Jian-Yu Lin__, and Jenn-Gwo Hwu, "Enhanced Transient Behavior in MIS(p) Tunnel Diodes by Trench Forming at the Gate Edge," in _IEEE Transactions on Electron Devices_, vol. 68, no. 9, pp. 4189-4194, Sept. 2021, doi: 10.1109/TED.2021.3095052.
+1. __Jian-Yu Lin__, and Jenn-Gwo Hwu, "Enhanced Transient Behavior in MIS(p) Tunnel Diodes by Trench Forming at the Gate Edge," in _IEEE Transactions on Electron Devices_, vol. 68, no. 9, pp. 4189-4194, Sept. 2021, doi: 10.1109/TED.2021.3095052. [For more details](http://JerryJianLin.github.io/_publications/2021-07-16-IEEE-TED.md)
 
 <!--
 - Shun-Yao Shih\*, __Fan-Keng Sun\*__, Hung-yi Lee.
