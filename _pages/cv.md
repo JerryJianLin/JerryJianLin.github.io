@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf) <br/>
+[Curriculum Vitae](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf)
 [<img src='/images/pdf.png' width='60' >](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf) <br/>
 
 {% include base_path %}
