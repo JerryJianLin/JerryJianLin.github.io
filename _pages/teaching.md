@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* In the first part of this page, I would introduce some background about the semiconductor devices, MIS TDs.
-* Second part is my research works about "Trench Structure MIS TDs".
+* First part of this page introduces some basics of **_MIS TDs_**, a kind of semiconductor devices.
+* Second part is my research works about **_"Trench Structure MIS TDs"_**.
 
 ---
 
@@ -33,7 +33,7 @@ author_profile: true
 ## 2. My research: Trench Structure MIS TDs (Trench MIS TDs) 
 ---
 * In 2019, with the aim to utilize MIS TDs as a new type of memory devices, I proposed a new device structure for MIS TDs.
-* I called it <b>"Trench structure MIS TD (Trench MIS TD)"</b>. \[One can see the following figure\] <br/>
+* I called it <b>_"Trench structure MIS TD (Trench MIS TD)"_</b>. [see the following figure] <br/>
 <br/>
 <br/>
 <p style="text-align:center;"><img src='/images/TrenchMIS.svg' width='600'></p> <br/>
