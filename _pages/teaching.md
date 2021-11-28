@@ -21,7 +21,7 @@ author_profile: true
   * d<sub>ox</sub> is thinner than 4 nm.
   * Very thin d<sub>ox</sub> allows MIS TDs to have apparent direct tunneling current. 
 
-<p style="text-align:center;"><img src='/images/MIS_IV.svg' width='600'></p> <br/>
+<p style="text-align:center;"><img src='/images/MIS_IV.svg' width='500'></p> <br/>
 
   * MIS TDs usually have diode-like _I-V_ curves (see the above figure).
   * For MIS(p) device [p-type silicon substrate]:
@@ -36,8 +36,8 @@ author_profile: true
 * I called it <b>_"Trench structure MIS TD (Trench MIS TD)"_</b>. [see the following figure] <br/>
 <br/>
 <br/>
-<p style="text-align:center;"><img src='/images/TrenchMIS.svg' width='600'></p> <br/>
-<b>Fig.</b> Top views and schematic cross section views of traditional planar structure MIS TDs (Planar MIS TDs) and the proposed trench structure MIS TDs (Trench MIS TDs).<br/>
+<p style="text-align:center;"><img src='/images/TrenchMIS.svg' width='500'></p> <br/>
+<b>Fig.</b> Control group: conventional planar structure MIS TDs (Planar MIS TDs). Experimental group: proposed trench structure MIS TDs (Trench MIS TDs).<br/>
 
 * The following is my research about Trench MIS TDs.  
 
