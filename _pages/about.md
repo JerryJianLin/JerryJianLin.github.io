@@ -30,6 +30,7 @@ Currently, I am applying for PhD programs.
 <br/>
 
 [Curriculum Vitae](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf) <br/>
+[<img src='/images/pdf.png' width='60' >](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf) <br/>
 
 Email address: ck10100398@gmail.com <br/>
 NTU email address: r08943076@ntu.edu.tw <br/>
