@@ -29,7 +29,7 @@ Currently, I am applying for PhD programs.
 <img src='/images/NTU.png' width='150' >
 <br/>
 
-[Curriculum Vitae](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf) <br/>
+[Curriculum Vitae](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf)
 [<img src='/images/pdf.png' width='60' >](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf) <br/>
 
 Email address: ck10100398@gmail.com <br/>
