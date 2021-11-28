@@ -11,11 +11,38 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Semiconductor Physics and Devices
+* Emerging Memory Devices (such as resistive random access memory (RRAM), phase change memory (PCM), and ferroelectric memory)
+* Low Dimensional Materials & Devices 
+* Power Semiconductor Devices
+* Metal-Oxide-Semiconductor (MOS) Devices
+* Transistors <br/>
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, National Taiwan University, 2019
+* M.S. in Electronic Engineering, National Taiwan University, 2021
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+<!--
+Research experience
+======
+* Capacitance–Voltage Lab, National Taiwan University: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
 Work experience
 ======
@@ -29,21 +56,39 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+-->
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Semiconductor Fabrication
+  *  Radio Cooperation of America (RCA) clean
+  *  Optical lithography
+  *  Anodic oxidation
+  *  Rapid thermal annealing (RTA)
+  *   Furnace annealing
+  *   Thermal evaporation
+  *   Wet etching
+  *   Reactive ion etching (RIE)
+  *   DC sputtering
+  *   Lift‑off process
+* Electrical Measurement
+  * Agilent B1500A semiconductor device analyzer
+  * Capacitance–voltage (_C–V_)
+  * Current–voltage (_I–V_)
+  * Current/Voltage–time (_I/V–t_)
+  * Memory endurance & retention measurement
+* Software
+  * Silvaco technology computer‑aided design (TCAD) simulation
+  * OriginLab
+  * Python
+  * Matlab
+  * LaTeX
+* Equipment Management
+  * Thermal evaporator
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -59,3 +104,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
