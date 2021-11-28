@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 [Curriculum Vitae](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf) <br/>
+[<img src='/images/pdf.png' width='60' >](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf) <br/>
 
 {% include base_path %}
 
@@ -20,6 +21,7 @@ Research Interests
 * Metal-Oxide-Semiconductor (MOS) Devices
 * Transistors <br/>
 
+<!--
 Education
 ======
 * B.S. in Electrical Engineering, National Taiwan University, 2019
@@ -30,6 +32,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+-->
 
 <!--
 Research experience
@@ -58,6 +62,7 @@ Work experience
   
 -->
 
+<!--
 Skills
 ======
 * Semiconductor Fabrication
@@ -85,7 +90,7 @@ Skills
   * LaTeX
 * Equipment Management
   * Thermal evaporator
-
+-->
 
 
 <!--
