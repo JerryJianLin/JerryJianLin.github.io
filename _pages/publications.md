@@ -22,6 +22,18 @@ Journal track of the _European Conference on Machine Learning & Principles and P
 
 2. __Jian-Yu Lin__, and Jenn-Gwo Hwu, “Enhanced Memory Properties in MIS TD by Forming Trench Structure at the Gate Edge,” _2020 International Electronic Devices and Materials Symposium (IEDMS)_, 5021, C1‑3, Chang Gung University, Tao‑Yuan City, Taiwan, ROC, Oct. 2020. (oral presentation) [\[For more details\]](http://JerryJianLin.github.io/publication/2020-10-16-IEDMS)
 
+## Master's Thesis
+
+* __Jian-Yu Lin__. (2021). _Enhanced Transient Current Behavior in MIS(p) Tunnel Diode with Gate Edge Trench Structure_ [Master's thesis, National Taiwan University]. Airiti Library. doi: 10.6342/NTU202101152. [\[Link\]](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2606202123002100)
+<br/>
+[<img src='/images/pdf.png' width='60'>](http://JerryJianLin.github.io/files/Master_thesis.pdf)
+[Thesis](http://JerryJianLin.github.io/files/Master_thesis.pdf)
+<br/>
+[<img src='/images/NTU.png' width='60'>](http://JerryJianLin.github.io/files/Thesis_defence.pdf)
+[defense](http://JerryJianLin.github.io/files/Thesis_defence.pdf)
+<br/>
+
+
 <!--
 - __Fan-Keng Sun__, Hao Chen,  Ching-Yu Chen, Chen-Hao Hsu, Yao-Wen Chang.
 A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides.
