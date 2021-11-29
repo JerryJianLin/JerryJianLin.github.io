@@ -44,13 +44,13 @@ author_profile: true
 ### Brief Summary of Trench MIS TDs
 
 
-1. **Trench structure offers more traps** <br/> 
-**&rArr; enhance memory properties (current window) of Trench MIS TDs.**  <br/> 
-\[ [_Conference: IEDMS 2020_](http://JerryJianLin.github.io/publication/2020-10-16-IEDMS) \] <br/>
-2. **Trench structure changes the electric field in the oxide layer of MIS TDs** <br/>
-**&rArr; strengthen transient current behavior of Trench MIS TDs.** <br/>
-**&rArr; Trench MIS TDs can be utilized as volatile memory devices.**  <br/> 
-\[ [_Journal: IEEE-TED_](http://JerryJianLin.github.io/publication/2021-07-16-IEEE-TED) and [_Conference: IEDMS 2021_](http://JerryJianLin.github.io/publication/2021-11-19-IEDMS) \]
+* **Trench structure offers more traps** 
+  * **enhance memory properties (current window) of Trench MIS TDs.** 
+  * [_Conference: IEDMS 2020_](http://JerryJianLin.github.io/publication/2020-10-16-IEDMS)
+* **Trench structure changes the electric field in the oxide layer of MIS TDs** 
+  * **strengthen transient current behavior of Trench MIS TDs.**
+  * **Trench MIS TDs can be utilized as volatile memory devices.**  
+  * [_Journal: IEEE-TED, 2021_](http://JerryJianLin.github.io/publication/2021-07-16-IEEE-TED) and [_Conference: IEDMS 2021_](http://JerryJianLin.github.io/publication/2021-11-19-IEDMS)
 <br/>
 <br/>
 
