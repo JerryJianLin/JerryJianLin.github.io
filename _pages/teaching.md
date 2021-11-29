@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* First part of this page introduces some basics of **_MIS TDs_**, a kind of semiconductor devices.
+* First part of this page introduces some basics of **_MIS TDs_**.
 * Second part is my research works about **_"Trench Structure MIS TDs"_**.
 
 ---
@@ -34,7 +34,7 @@ author_profile: true
 
 ## 2. My research: Trench Structure MIS TDs (Trench MIS TDs) 
 ---
-* In 2019, with the aim to utilize MIS TDs as a new type of memory devices, I proposed a new device structure for MIS TDs.
+* In 2019, with the aim to utilize MIS TDs as a new type of **memory devices**, I proposed a new device structure for MIS TDs.
 * I called it <b>_"Trench structure MIS TD (Trench MIS TD)"_</b>. [see the following figure] <br/>
 <br/>
 <br/>
@@ -43,20 +43,20 @@ author_profile: true
 <br/>
 <br/>
 
-### Brief Summary of Trench MIS TDs
+### Brief Summary of Trench MIS TDs Research
 
 
 * **Trench structure offers more traps** 
-  * **enhance memory properties (current window) of Trench MIS TDs.** 
+  * **enhance memory properties (e.g., current window) of Trench MIS TDs after applying long time voltage stress.** 
   * [_Conference: IEDMS 2020_](http://JerryJianLin.github.io/publication/2020-10-16-IEDMS)
 * **Trench structure changes the electric field in the oxide layer of MIS TDs** 
-  * **strengthen transient current behavior of Trench MIS TDs.**
+  * **strengthen the transient current behavior of Trench MIS TDs.**
   * **Trench MIS TDs can be utilized as volatile memory devices.**  
   * [_Journal: IEEE-TED, 2021_](http://JerryJianLin.github.io/publication/2021-07-16-IEEE-TED) and [_Conference: IEDMS 2021_](http://JerryJianLin.github.io/publication/2021-11-19-IEDMS)
 <br/>
 <br/>
 
-* The following lists my research (2 conference and 1 journal papers) about Trench MIS TDs.  
+* The following lists my research details (2 conference and 1 journal papers) about Trench MIS TDs.  
 <br/>
 <br/>
 
