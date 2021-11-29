@@ -39,15 +39,14 @@ author_profile: true
 <p style="text-align:center;"><img src='/images/TrenchMIS_v2.svg' width='500'></p> <br/>
 <b>Fig.</b> Control group: conventional planar structure MIS TDs (Planar MIS TDs). Experimental group: proposed trench structure MIS TDs (Trench MIS TDs).<br/>
 
-* The following is my research about Trench MIS TDs.  
+### Brief Summary of Trench MIS TDs
+
+1. Trench structure offers **more traps** &rArr; **enhance memory properties (current window)** of Trench MIS TDs. \[ [_Conference: IEDMS 2020_](http://JerryJianLin.github.io/publication/2020-10-16-IEDMS) \]
+2. Trench structure changes the **electric field in the oxide layer** of MIS TDs &rArr; **strengthen transient current behavior** of Trench MIS TDs. \[ [_Journal: IEEE-TED_](http://JerryJianLin.github.io/publication/2021-07-16-IEEE-TED) and [_Conference: IEDMS 2021_](http://JerryJianLin.github.io/publication/2021-11-19-IEDMS) \]
+
+* The following lists my research (2 conference and 1 journal papers) about Trench MIS TDs.  
 
 {% include base_path %}
-
-<!-- remove at 2021/11/27
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
 
 {% for post in site.publications %}
   {% include archive-single.html %}
