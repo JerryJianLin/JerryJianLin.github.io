@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * First part of this page introduces some basics of **_MIS TDs_**.
-* Second part is my research works about **_"Trench Structure MIS TDs"_**.
+* Second part describes my research works about **_"Trench Structure MIS TDs"_**.
 
 ---
 
