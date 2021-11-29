@@ -21,11 +21,11 @@ Research Interests
 * Metal-Oxide-Semiconductor (MOS) Devices
 * Transistors <br/>
 
-<!--
+
 Education
 ======
 * B.S. in Electrical Engineering, National Taiwan University, 2019
-* M.S. in Electronic Engineering, National Taiwan University, 2021
+* M.S. in Electronics Engineering, National Taiwan University, 2021
 
 Publications
 ======
@@ -33,7 +33,26 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
--->
+Highlight Courses (all A+)
+======
+
+* B.S. in Electrical Engineering
+  * Electronics (Ⅰ), (Ⅱ), (Ⅲ)
+  * Electromagnetics (Ⅰ), (Ⅱ)
+  * Solid State Electronics
+  * Quantum Electronics (Ⅰ)
+  * Patent Opposition and Infringement
+  * Nano Optoelectronics Semiconductor Processing Technology
+  * Integrated Circuit Design
+  * MOS Capacitor Device
+  * Semiconductor Engineering
+  * Special Topic on Oxide Reliability
+* M.S. in Electronics Engineering
+  * Solid State Physics (Ⅰ)
+  * Physics of Semiconductor Devices
+  * Advanced Technologies for Semiconductor and Display
+  * Nanoelectronics
+  * Digital IC Engineering
 
 <!--
 Research experience
@@ -62,7 +81,7 @@ Work experience
   
 -->
 
-<!--
+
 Skills
 ======
 * Semiconductor Fabrication
@@ -90,7 +109,7 @@ Skills
   * LaTeX
 * Equipment Management
   * Thermal evaporator
--->
+
 
 
 <!--
