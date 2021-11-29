@@ -34,7 +34,7 @@ author_profile: true
 
 ## 2. My research: Trench Structure MIS TDs (Trench MIS TDs) 
 ---
-* In 2019, with the aim to utilize MIS TDs as a new type of **memory devices**, I proposed a new device structure for MIS TDs.
+* In 2019, with the aim to utilize MIS TDs as **memory devices**, I proposed a new device structure for MIS TDs.
 * I called it <b>_"Trench structure MIS TD (Trench MIS TD)"_</b>. [see the following figure] <br/>
 <br/>
 <br/>
