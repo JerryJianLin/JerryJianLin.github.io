@@ -12,7 +12,7 @@ Welcome! <br> My name is Jian-Yu (Jerry) Lin, a graduate research assistant at t
 I have worked with [Prof. Jenn-Gwo Hwu](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901074) since 2018 and investigated the transient current behavior of metal-insulator-semiconductor tunnel diodes (MIS TDs). <br/>
 We want to utilize MIS TDs as memory devices by using their transient current behavior.<br/>
 <br/>
-I have one journal and two conference papers.<br/> 
+I have 1 journal and 2 conference papers.<br/> 
 I received my B.S. degree in Electrical Engineering in 2019 and M.S. degree in Electronics Engineering in 2021 both from NTU. <br/>
 <br/>
 <br/>
