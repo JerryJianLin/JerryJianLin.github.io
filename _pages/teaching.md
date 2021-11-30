@@ -19,7 +19,7 @@ author_profile: true
   * The device structure of MIS TDs is similar to it of metal-oxide-semiconductor (MOS) capacitors.
   * Except that MIS TDs have very thin oxide thickness (d<sub>ox</sub>).
   * d<sub>ox</sub> is thinner than 4 nm.
-  * Very thin d<sub>ox</sub> allows MIS TDs to have apparent direct tunneling current. 
+  * Very thin d<sub>ox</sub> allows MIS TDs to have apparent direct tunneling currents. 
 <br/>
 <br/>
 
@@ -47,7 +47,7 @@ author_profile: true
 
 
 * **Trench structure offers more traps** 
-  * **enhance memory properties (e.g., current window) of Trench MIS TDs after applying long time voltage stress.** 
+  * **enhance memory properties (e.g., current window) of Trench MIS TDs.** 
   * [_Conference: IEDMS 2020_](http://JerryJianLin.github.io/publication/2020-10-16-IEDMS)
 * **Trench structure changes the electric field in the oxide layer of MIS TDs** 
   * **strengthen the transient current behavior of Trench MIS TDs.**
