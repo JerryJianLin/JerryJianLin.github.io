@@ -60,7 +60,7 @@ author_profile: true
 <br/>
 <br/>
 
-* The following lists my research details (2 conference and 1 journal papers) about Trench MIS TDs.  
+* The following chronologically lists my research details (1 journal and 2 conference papers) about Trench MIS TDs.  
 <br/>
 <br/>
 
