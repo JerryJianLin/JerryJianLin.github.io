@@ -39,7 +39,7 @@ author_profile: true
 <br/>
 <br/>
 <p style="text-align:center;"><img src='/images/TrenchMIS_v2.svg' width='500'></p>
-<b>Fig.</b> Control group: conventional planar structure MIS TDs (Planar MIS TDs). Experimental group: proposed trench structure MIS TDs (Trench MIS TDs).<br/>
+<b>Fig.</b> Control group (left): conventional planar structure MIS TDs (Planar MIS TDs). Experimental group (right): proposed trench structure MIS TDs (Trench MIS TDs).<br/>
 <br/>
 <br/>
 
