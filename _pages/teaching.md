@@ -47,15 +47,15 @@ author_profile: true
 
 
 * **Trench structure offers more traps** 
-  * **enhance memory properties (e.g., current window) of Trench MIS TDs.** 
+  * enhance memory properties (e.g., current window) of Trench MIS TDs. 
   * [_Conference: IEDMS 2020_](http://JerryJianLin.github.io/publication/2020-10-16-IEDMS)
 * **Trench structure changes the electric field in the oxide layer of MIS TDs** 
-  * **strengthen the transient current behavior of Trench MIS TDs.**
-  * **Trench MIS TDs can be utilized as volatile memory devices.**  
+  * strengthen the transient current behavior of Trench MIS TDs.
+  * Trench MIS TDs can be utilized as volatile memory devices.  
   * [_Journal: IEEE-TED, 2021_](http://JerryJianLin.github.io/publication/2021-07-16-IEEE-TED)
 * **Magnitude of the transient currents in Trench MIS TDs is dependent on oxide thickness.**
-  * **magnitude of the transient current is positively related to excess electron density.**
-  * **excess electron density is dependent on oxide thickness.**
+  * magnitude of the transient current is positively related to excess electron density.
+  * excess electron density is dependent on oxide thickness.**
   * [_Conference: IEDMS 2021_ (Best Paper Award)](http://JerryJianLin.github.io/publication/2021-11-19-IEDMS)
 <br/>
 <br/>
