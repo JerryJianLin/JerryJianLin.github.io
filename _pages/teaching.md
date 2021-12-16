@@ -55,7 +55,7 @@ author_profile: true
   * [_Journal: IEEE-TED, 2021_](http://JerryJianLin.github.io/publication/2021-07-16-IEEE-TED)
 * **Magnitude of the transient currents in Trench MIS TDs is dependent on oxide thickness.**
   * magnitude of the transient current is positively related to excess electron density.
-  * excess electron density is dependent on oxide thickness.**
+  * excess electron density is dependent on oxide thickness.
   * [_Conference: IEDMS 2021_ (Best Paper Award)](http://JerryJianLin.github.io/publication/2021-11-19-IEDMS)
 <br/>
 <br/>
