@@ -34,8 +34,8 @@ My research interests include:
 <img src='/images/NTU.png' width='150' >
 <br/>
 
-[Curriculum Vitae](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf)
-[<img src='/images/pdf.png' width='60' >](http://JerryJianLin.github.io/files/CV_Jian_Yu_Lin.pdf) <br/>
+[Curriculum Vitae](http://JerryJianLin.github.io/files/CV_for_VISA_2022.pdf)
+[<img src='/images/pdf.png' width='60' >](http://JerryJianLin.github.io/files/CV_for_VISA_2022.pdf) <br/>
 
 Email address: ck10100398@gmail.com <br/>
 NTU email address: r08943076@ntu.edu.tw <br/>
